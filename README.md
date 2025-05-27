@@ -6,7 +6,6 @@ Binary Classification Using Python & Customer Feedback Metrics
 🧭 Overview
 
 This project estimates customer satisfaction based on a small set of survey-like questions related to the ordering and delivery experience. Using Python, we build a simple binary classification model that predicts whether a customer is happy (1) or unhappy (0).
-
 The goal is to demonstrate how subjective feedback can be transformed into actionable insights using basic machine learning techniques — helping companies improve service, pricing, and app usability.
 
 🧠 Problem Statement
@@ -30,7 +29,6 @@ X6	Was the app easy to use?
 All responses are treated as binary (e.g., Yes/No or 1/0).
 
 🛠 Tools & Tech Stack
-
 Python 3.x
 Pandas for data processing
 Scikit-learn for machine learning
@@ -38,10 +36,6 @@ Matplotlib / Seaborn for visualization
 Jupyter Notebook for interactive exploration
 
 🚀 Use Cases
-
-Improve delivery services and UX design
-Target specific areas for customer experience improvement
-Generate customer satisfaction dashboards for operations teams
-
-
-
+1. Improve delivery services and UX design.
+2. Target specific areas for customer experience improvement.
+3. Generate customer satisfaction dashboards for operations teams.
